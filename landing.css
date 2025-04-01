@@ -57,3 +57,11 @@ h1 {
     margin: 110px 50px 100px 50px;
     text-align: center;
 }
+button {
+    background-color:#3882f6;
+    color: white;
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+}
