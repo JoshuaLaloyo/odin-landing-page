@@ -15,7 +15,7 @@ a {
     justify-content: stretch;
 }
 .navigation {
-    margin: 0 0 0 30%;
+    margin: auto;
 }
 ul {
     list-style: none;
