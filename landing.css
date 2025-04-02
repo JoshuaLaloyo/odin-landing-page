@@ -73,12 +73,17 @@ h2 {
 img {
     width: 100px;
     height: 100px;
-    border: #4d88da 1px solid;
+    border: #4d88da 2px solid;
     border-radius: 10px;
     margin: auto;
 }
-caption {
+.info p {
     text-align: center;
+    font-family: sans-serif, arial;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+
 }
 .description {
     display: flex;
