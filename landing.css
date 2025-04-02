@@ -101,5 +101,20 @@ img {
     justify-content: center;
 }
 .quote p {
-    padding: 50px;
+    padding: px;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: large;
+    text-align: justify;
+
+}
+address {
+    text-align: right;
+    font-style: italic;
+    font-size: small;
+    margin-right: 200px;
+    font-weight: 700;
 }
