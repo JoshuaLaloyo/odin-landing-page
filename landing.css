@@ -71,17 +71,17 @@ h2 {
 
 }
 img {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     border: #4d88da 1px solid;
     border-radius: 10px;
-    margin: 30px;
+    margin: auto;
 }
 caption {
     text-align: center;
 }
 .description {
     display: flex;
-    align-content: center;
     justify-content: space-around;
+    margin: 0 150px 0 150px;
 }
