@@ -70,6 +70,18 @@ h2 {
     font-family: sans-serif, arial;
 
 }
-.info {
-    
+img {
+    width: 120px;
+    height: 120px;
+    border: #4d88da 1px solid;
+    border-radius: 10px;
+    margin: 30px;
+}
+caption {
+    text-align: center;
+}
+.description {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
 }
