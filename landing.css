@@ -137,9 +137,9 @@ address {
     display: block;
     margin: 1px;
 }
-.Sign-up ,button {
+.Sign-up button {
     border: #eef1f5 1px solid;
 }
 .action p {
     margin: 1px;
-}
+} 
